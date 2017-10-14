@@ -28,6 +28,7 @@ This set of tools contains:
 The raw stylesheet only contains @2x style, and if you
 
 * don't intend to transform the original value, eg: 1px border, add `/*no*/` after the declaration
+* don't intend to transform the original value, eg: 1px border, add `1PX border` use capital letter `PX`
 * intend to use px by force，eg: font-size, add `/*px*/` after the declaration
 
 **Attention: Dealing with SASS or LESS, only `/*...*/` comment can be used, in order to have the comments persisted**
@@ -78,7 +79,7 @@ One raw stylesheet: `test.css`
   width: 150px;
   height: 64px; /*px*/
   font-size: 28px; /*px*/
-  border: 1px solid #ddd;
+  border: 1PX solid #ddd;
 }
 ```
 

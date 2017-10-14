@@ -1,6 +1,6 @@
 {
   "name": "venus-px2rem",
-  "description": "According to one stylesheet, generate rem version and @1x, @2x and @3x stylesheet",
+  "description": "According to one stylesheet, generate rem version and @1x, @2x and @3x stylesheet add PX to keep original value",
   "version": "1.0.0",
   "homepage": "https://github.com/tianyingchun/venus-px2rem",
   "repository": {

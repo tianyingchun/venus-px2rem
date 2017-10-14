@@ -2,7 +2,7 @@
 body {
   background: #eee;
   color: #888; /* color is gray */
-  border: 1px solid; /*no*/
+  border: 1PX solid;
   height: 20px; /* px */
   padding: 6px; /*px*/
   -webkit-animation: anim1 linear infinite;
@@ -44,12 +44,12 @@ body {
   0% {
     height: 75px; /*px*/
     width: 75px;
-    border: 1px solid #ddd; /*no*/
+    border: 1PX solid #ddd;
   }
   100% {
     height: 150px;
     width: 150px;
-    border: 2px solid #ddd; /*no*/
+    border: 2PX solid #ddd;
   }
 }
 
@@ -59,7 +59,7 @@ body {
   body {
     background: #eee;
     color: #888; /* color is gray */
-    border: 1px solid; /*no*/
+    border: 1PX solid;
     height: 20px; /* px */
     padding: 6px; /*px*/
     -webkit-animation: anim3 linear infinite;
@@ -104,12 +104,12 @@ body {
     0% {
       height: 75px;
       width: 75px;
-      border: 1px solid #ddd; /*no*/
+      border: 1PX solid #ddd;
     }
     100% {
       height: 150px;
       width: 150px;
-      border: 2px solid #ddd; /*no*/
+      border: 2PX solid #ddd;
     }
   }
 }
