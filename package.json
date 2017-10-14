@@ -8,16 +8,16 @@
     "url": "https://github.com/tianyingchun/venus-px2rem.git"
   },
   "dependencies": {
-    "css": "~2.2.0",
-    "extend": "~3.0.0",
-    "commander": "~2.6.0",
-    "chalk": "~0.5.1",
-    "fs-extra": "~0.16.3"
+    "chalk": "^2.1.0",
+    "commander": "^2.11.0",
+    "css": "^2.2.1",
+    "extend": "^3.0.1",
+    "fs-extra": "^4.0.2"
   },
   "devDependencies": {
-    "istanbul": "^0.3.6",
-    "coveralls": "^2.10.0",
-    "mocha": "^2.1.0"
+    "coveralls": "^3.0.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^4.0.1"
   },
   "bin": {
     "px2rem": "./bin/px2rem.js"

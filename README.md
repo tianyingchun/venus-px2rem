@@ -78,7 +78,7 @@ One raw stylesheet: `test.css`
   width: 150px;
   height: 64px; /*px*/
   font-size: 28px; /*px*/
-  border: 1px solid #ddd; /*no*/
+  border: 1px solid #ddd;
 }
 ```
 
